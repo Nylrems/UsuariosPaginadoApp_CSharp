@@ -96,5 +96,14 @@
   <ItemGroup>
     <None Include="Resources\respaldo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espacial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangulo-redondeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libreria-digital.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
