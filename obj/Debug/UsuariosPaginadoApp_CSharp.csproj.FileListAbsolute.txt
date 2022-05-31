@@ -1,0 +1,10 @@
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\bin\Debug\UsuariosPaginadoApp_CSharp.exe.config
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\bin\Debug\UsuariosPaginadoApp_CSharp.exe
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\bin\Debug\UsuariosPaginadoApp_CSharp.pdb
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.csproj.AssemblyReference.cache
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.Properties.Resources.resources
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.csproj.GenerateResource.cache
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.exe
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.pdb
