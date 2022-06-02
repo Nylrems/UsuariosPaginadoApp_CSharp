@@ -16,5 +16,29 @@ namespace UsuariosPaginadoApp_CSharp.Views
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MenuPrincipal_Load(object sender, EventArgs e)
+        {
+            panelBienvenida.Dock = DockStyle.Fill;
+        }
+
+        private void btnConsultas_Click(object sender, EventArgs e)
+        {
+            PruebaForm frm = new PruebaForm();
+            frm.ShowDialog();
+        }
+
+        private void btnPersonal_Click(object sender, EventArgs e)
+        {
+            PruebasControl ctr = new PruebasControl();
+            panelDerecho.Controls.Clear();
+            ctr.Dock = DockStyle.Fill;
+            panelDerecho.Controls.Add(ctr);
+        }
     }
 }

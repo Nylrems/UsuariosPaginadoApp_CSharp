@@ -54,6 +54,18 @@
     <Compile Include="Views\MenuPrincipal.Designer.cs">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\PruebaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\PruebaForm.Designer.cs">
+      <DependentUpon>PruebaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PruebasControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\PruebasControl.Designer.cs">
+      <DependentUpon>PruebasControl.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -66,6 +78,9 @@
     </Compile>
     <EmbeddedResource Include="Views\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PruebasControl.resx">
+      <DependentUpon>PruebasControl.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

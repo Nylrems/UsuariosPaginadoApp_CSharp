@@ -9,3 +9,4 @@ C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CS
 C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.exe
 C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.pdb
 C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.Views.MenuPrincipal.resources
+C:\Users\Smerl\Repos\UsuariosPaginadoApp_CSharp\obj\Debug\UsuariosPaginadoApp_CSharp.Views.PruebasControl.resources
